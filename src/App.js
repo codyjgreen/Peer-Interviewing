@@ -8,7 +8,7 @@ function App() {
      
 
       <body className="Body">
-      <h1>Peer Interviewing</h1>
+      <h1>Peer Interviewing Event Series</h1>
        
         <p>This video walks you through what you can expect and how to get the most out of the peer interviewing event. <br></br> 
       </p>
@@ -17,6 +17,15 @@ function App() {
       <ReactPlayer
         url="https://youtu.be/6b0s-w8yFRI"
       />
+    </div>
+
+    <div>
+      <h1>Date of next event</h1>
+      <h2>4/9/2021</h2>
+
+      <p>The questions will be posted here on <b>Monday 4/5/2021</b> so that you have time to work through the problem that you are giving your peer. <br></br>
+      Then on <b>Friday</b> at <b>1PM PST/4PM EST</b> the peer interviews will be held in the Airmeet.</p>
+
     </div>
 
       <div className="Signup">
